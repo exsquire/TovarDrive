@@ -6,7 +6,7 @@ library(gridExtra)
 ui <- fluidPage(
 
     # Application title
-    titlePanel("TovarDrive"),
+    titlePanel("TovarDrive: Median Filtering for Heart Rate Data"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
